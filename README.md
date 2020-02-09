@@ -13,7 +13,7 @@
  
  ## Installing
  
- ```npm install ```
+ ```npm i @phylite/phy-event-emitter```
  
   ## Example
   

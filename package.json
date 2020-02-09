@@ -1,8 +1,22 @@
 {
-  "name": "phy-event-emitter",
+  "name": "@phylite/phy-event-emitter",
   "version": "1.0.0",
   "description": "A simple EventEmitter that works with node and web js, inspired by nodes events api",
   "main": "index.js",
   "author": "ashlin4010",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phylite/phy-event-emitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phylite/phy-event-emitter/issues"
+  },
+  "homepage": "https://github.com/phylite/phy-event-emitter#readme"
 }
